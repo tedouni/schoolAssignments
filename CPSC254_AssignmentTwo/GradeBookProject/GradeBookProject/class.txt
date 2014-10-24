@@ -1,0 +1,10 @@
+Troy 	60	80	65	70	55
+John 	70	55	75	80	45
+Samantha 60	64	58	55	85		
+Timmothy 40	50	60	55	45	
+Rebecca  80	85	84	87	89	
+Adam 	74	73	75	76	73	
+George 	64	68	69	71	60	
+Nigel 	95 	80	80	60	65		
+Samual	60	73	75	90	75
+Sarah	65	86	90	40	80
